@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    okello stephen
+                    Just Testing
                 </div>
 
                 <div class="links">
